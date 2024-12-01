@@ -1,4 +1,4 @@
-# Data Science Projects Portfolio  
+# Data Science Projects
 
 Welcome to my Data Science Projects Portfolio! This repository showcases three hands-on projects developed as part of the Data Science course in the Industrial Engineering program at UTN. Each project explores a unique domain and applies essential data science concepts, from exploratory data analysis (EDA) to supervised machine learning.  
 
