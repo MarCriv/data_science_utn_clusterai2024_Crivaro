@@ -23,7 +23,8 @@ Welcome to my Data Science Projects Portfolio! This repository showcases three h
 - **Dataset:** A dataset of 7,043 customers with 21 variables detailing customer characteristics and behaviors.  
 - **Approach:**  
   - Performed comprehensive EDA to understand customer behavior and identify potential churn indicators.  
-  - Developed predictive models to estimate churn probability, assisting the company in improving customer retention strategies.  
+  - Developed predictive models to estimate churn probability, assisting the company in improving customer retention strategies.
+  - Colab link address: https://colab.research.google.com/drive/13GFO9gNceNAa5EP3cbf2cDyNsRvOeMZf?usp=sharing
 
 ## 🎯 Why This Portfolio Stands Out  
 - Demonstrates proficiency in EDA, data visualization, and feature engineering.  
